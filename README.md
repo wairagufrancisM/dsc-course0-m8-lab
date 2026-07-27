@@ -1,5 +1,6 @@
 # Aviation Accident Analysis
 This project provides a comprehensive analysis of aviation accident data (1948–2023) to identify aircraft makes and models with superior safety records (p. 1). It is designed for aviation insurers to determine which platforms exhibit low rates of total destruction and lower likelihoods of serious passenger injuries (p. 1).
+
 ------------------------------
 ## 🛫 Analysis Summary## 1. Data Cleaning & Scope
 
